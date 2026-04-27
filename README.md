@@ -1,5 +1,3 @@
-I got you. Here is a more "human" version of the README. It’s written in a casual, developer-to-developer tone, skipping the stiff "AI-generated" corporate talk and focusing on the logic and why you built it.
-
 🎮 Guess My Number
 This is a simple "Guess the Number" game I built while diving deeper into JavaScript DOM Manipulation. It’s a classic project, but I focused on making the code clean and practicing the DRY (Don't Repeat Yourself) principle by using helper functions.
 
