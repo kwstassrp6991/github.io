@@ -5,7 +5,7 @@ A classic number guessing game built with **Vanilla JavaScript**, focusing on cl
 ---
 
 ## 🕹️ Live Demo
-
+> Download the files in your Computer,
 > Open `index.html` in your browser and start playing instantly — no setup needed.
 
 ---
